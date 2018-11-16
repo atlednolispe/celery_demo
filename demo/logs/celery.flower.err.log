@@ -1,0 +1,143 @@
+[I 181115 10:10:09 command:139] Visit me at http://localhost:5555
+[I 181115 10:10:09 command:144] Broker: redis://localhost:6379/1
+[I 181115 10:10:09 command:147] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'demo-task']
+[I 181115 10:10:09 mixins:231] Connected to redis://localhost:6379/1
+[W 181115 10:10:13 control:44] 'stats' inspect method failed
+[W 181115 10:10:13 control:44] 'active_queues' inspect method failed
+[W 181115 10:10:13 control:44] 'registered' inspect method failed
+[W 181115 10:10:13 control:44] 'scheduled' inspect method failed
+[W 181115 10:10:13 control:44] 'active' inspect method failed
+[W 181115 10:10:13 control:44] 'reserved' inspect method failed
+[W 181115 10:10:13 control:44] 'revoked' inspect method failed
+[W 181115 10:10:13 control:44] 'conf' inspect method failed
+[W 181115 10:10:37 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:11:01 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:11:05 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:11:07 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:11:12 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 181115 10:12:10 command:47] SIGTERM detected, shutting down
+[I 181115 10:12:32 command:139] Visit me at http://localhost:5555
+[I 181115 10:12:32 command:144] Broker: redis://localhost:6379/1
+[I 181115 10:12:32 command:147] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'demo-task']
+[I 181115 10:12:32 mixins:231] Connected to redis://localhost:6379/1
+[W 181115 10:12:34 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:12:34 control:44] 'stats' inspect method failed
+[W 181115 10:12:34 control:44] 'active_queues' inspect method failed
+[W 181115 10:12:34 control:44] 'registered' inspect method failed
+[W 181115 10:12:34 control:44] 'scheduled' inspect method failed
+[W 181115 10:12:34 control:44] 'active' inspect method failed
+[W 181115 10:12:34 control:44] 'reserved' inspect method failed
+[W 181115 10:12:34 control:44] 'revoked' inspect method failed
+[W 181115 10:12:34 control:44] 'conf' inspect method failed
+[W 181115 10:12:36 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:12:44 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:12:49 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:12:52 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:12:56 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:13:01 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:13:27 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:13:28 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:13:29 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:13:30 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 181115 10:13:40 command:47] SIGTERM detected, shutting down
+[I 181115 10:16:58 command:139] Visit me at http://localhost:5555
+[I 181115 10:16:58 command:144] Broker: redis://localhost:6379/1
+[I 181115 10:16:58 command:147] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'demo-task']
+[I 181115 10:16:58 mixins:231] Connected to redis://localhost:6379/1
+[W 181115 10:17:01 control:44] 'stats' inspect method failed
+[W 181115 10:17:01 control:44] 'active_queues' inspect method failed
+[W 181115 10:17:01 control:44] 'registered' inspect method failed
+[W 181115 10:17:01 control:44] 'scheduled' inspect method failed
+[W 181115 10:17:01 control:44] 'active' inspect method failed
+[W 181115 10:17:01 control:44] 'reserved' inspect method failed
+[W 181115 10:17:01 control:44] 'revoked' inspect method failed
+[W 181115 10:17:01 control:44] 'conf' inspect method failed
+[W 181115 10:17:02 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:17:03 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:17:07 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:17:08 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:17:11 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 181115 10:18:28 command:47] SIGTERM detected, shutting down
+[I 181115 10:41:57 command:139] Visit me at http://localhost:5555
+[I 181115 10:41:57 command:144] Broker: redis://localhost:6379/1
+[I 181115 10:41:57 command:147] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'demo-task']
+[I 181115 10:41:57 mixins:231] Connected to redis://localhost:6379/1
+[W 181115 10:41:59 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:00 control:44] 'stats' inspect method failed
+[W 181115 10:42:00 control:44] 'active_queues' inspect method failed
+[W 181115 10:42:00 control:44] 'registered' inspect method failed
+[W 181115 10:42:00 control:44] 'scheduled' inspect method failed
+[W 181115 10:42:00 control:44] 'active' inspect method failed
+[W 181115 10:42:00 control:44] 'reserved' inspect method failed
+[W 181115 10:42:00 control:44] 'revoked' inspect method failed
+[W 181115 10:42:00 control:44] 'conf' inspect method failed
+[W 181115 10:42:00 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:02 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:03 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:05 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:09 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 181115 10:42:17 command:47] SIGTERM detected, shutting down
+[I 181115 10:42:36 command:139] Visit me at http://localhost:5555
+[I 181115 10:42:36 command:144] Broker: redis://localhost:6379/1
+[I 181115 10:42:36 command:147] Registered tasks: 
+    ['celery.backend_cleanup',
+     'celery.chain',
+     'celery.chord',
+     'celery.chord_unlock',
+     'celery.chunks',
+     'celery.group',
+     'celery.map',
+     'celery.starmap',
+     'demo-task']
+[I 181115 10:42:36 mixins:231] Connected to redis://localhost:6379/1
+[W 181115 10:42:37 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:39 control:44] 'stats' inspect method failed
+[W 181115 10:42:39 control:44] 'active_queues' inspect method failed
+[W 181115 10:42:39 control:44] 'registered' inspect method failed
+[W 181115 10:42:39 control:44] 'scheduled' inspect method failed
+[W 181115 10:42:39 control:44] 'active' inspect method failed
+[W 181115 10:42:39 control:44] 'reserved' inspect method failed
+[W 181115 10:42:39 control:44] 'revoked' inspect method failed
+[W 181115 10:42:39 control:44] 'conf' inspect method failed
+[W 181115 10:42:39 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:41 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:42 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:44 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[W 181115 10:42:45 web:1667] 404 GET /broker (127.0.0.1): Unable to get queues: ''str' object has no attribute 'name''
+[I 181115 10:43:06 command:47] SIGTERM detected, shutting down
